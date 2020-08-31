@@ -1,0 +1,24 @@
+{
+  "access": "public",
+  "active": true,
+  "api_name": "x_11413_cicd_t_01.hello_world",
+  "caller_access": null,
+  "client_callable": false,
+  "description": "updated now",
+  "name": "hello_world",
+  "script": {
+    "____see": "sn/01 CICD Test App/Script Include/active_true/x_11413_cicd_t_01.hello_world.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-08-31 12:33:26",
+  "sys_id": "ce98ad14db035410fcf41780399619e0",
+  "sys_mod_count": 0,
+  "sys_name": "hello_world",
+  "sys_package": "824b689cdb4f1410fcf41780399619d6",
+  "sys_policy": null,
+  "sys_scope": "824b689cdb4f1410fcf41780399619d6",
+  "sys_update_name": "sys_script_include_ce98ad14db035410fcf41780399619e0",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-08-31 12:33:26"
+}
